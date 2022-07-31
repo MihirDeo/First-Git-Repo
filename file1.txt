@@ -1,2 +1,2 @@
 Hi from git file.
-hello
+hello from branch1
